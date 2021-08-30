@@ -32,7 +32,7 @@
 **📨  Contact  📨** 
   
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=TV%20Time&logoColor=white)](https://devlog2829.tistory.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](hyeonjeong2829@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyeonjeong2829@gmail.com)](mailto:hyeonjeong2829@gmail.com)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
 <br/><br/>
