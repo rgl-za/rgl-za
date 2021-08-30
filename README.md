@@ -1,22 +1,44 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<div align= "center"> 
+  
+![header](https://capsule-render.vercel.app/api?type=rect&color=C6BBB7&height=100&section=header&text=Hi%20👋%20,%20I'm%20Hyeonjeong%20&fontSize=30)
 
+<br/><br/>
+  
+**🛠  Tech Stack 🛠** 
+  
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
+![Raspberry%20Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2b%2b&logoColor=white)
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+  
+<br/><br/>
+  
+**📊 Collaboration Tool 📊**
+  
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white)
+![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)
+  
+<br/><br/>
+  
+**📨  Contact  📨** 
+  
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=TV%20Time&logoColor=white)](https://devlog2829.tistory.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](hyeonjeong2829@gmail.com)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
+<br/><br/>
 
+  
+![footer](https://capsule-render.vercel.app/api?type=wave&color=364765&height=200&section=footer)
+  
 
-<!--
-**rgl-za/rgl-za** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer)
+</div>
