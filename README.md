@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer)
